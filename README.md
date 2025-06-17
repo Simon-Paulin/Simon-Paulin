@@ -36,7 +36,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 # **TryHackMe**
 - **Pre Security Certificate**
 - **Soc Level 1** : En cours  
-- [TryHackMe](https://tryhackme.com/p/simon.paulin.pro)  
+- [![TryHackMe Profile](https://img.shields.io/badge/-TryHackme-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/simon.paulin.pro)  
 
 
 ---
@@ -50,5 +50,5 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E8C08F&center=true&vCenter=true&width=700&lines=Merci+de+votre+visite+!+Contactez-moi+pour+un+stage+ou+une+collaboration" alt="Merci !" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E8C08F&center=true&vCenter=true&width=700&lines=Merci+de+votre+visite+!" alt="Merci !" />
 </p>
