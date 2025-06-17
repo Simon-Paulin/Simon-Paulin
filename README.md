@@ -33,7 +33,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ## 🏆 Certifications & Plateformes
 
-# IBM
+### IBM
 
 
 # **TryHackMe**
