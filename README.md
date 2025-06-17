@@ -41,7 +41,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 
 ## **TryHackMe**
-- [![Certificat](https://img.shields.io/badge/-Certificat Pre Security-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
+- [![Certificat Badge](https://img.shields.io/badge/-Certificat Pre Security-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
 - **Soc Level 1** : En cours  
 
 ---
