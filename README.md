@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E8C08F&center=true&vCenter=true&width=700&lines=Salut%2C+je+suis+Simon+Paulin;Cybersecurity+Student+%7C+Dev+Web+%26+Sys;En+recherche+de+stage+en+Cybersécurité" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ton-id-github?v=4" width="140" alt="photo Simon Paulin" style="border-radius:50%;" />
-</p>
-
-<h2 align="center">Stage en Cybersécurité • Disponible 2024</h2>
-
 ---
 
 ## 👨‍💻 À propos de moi
