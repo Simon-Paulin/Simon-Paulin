@@ -34,12 +34,14 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 ## 🏆 Certifications & Plateformes
 
 ## IBM
-### Certificats
+- [Certificat-agile](https://github.com/user-attachments/files/20775891/certificate-agile.pdf)
+- [certificat-oss](https://github.com/user-attachments/files/20775905/certificate-oss.pdf)
+
+
 
 
 ## **TryHackMe**
-### Certificats
-- [Pre Security](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
+- [![Certificat Pre Security](https://img.shields.io/badge/-Certificat Pre Security-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
 - **Soc Level 1** : En cours  
 
 ---
