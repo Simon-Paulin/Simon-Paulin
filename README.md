@@ -41,35 +41,6 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ---
 
-## 💼 Expériences récentes
-
-### **Holberton School** *(2024 - 2025)*
-- **Simple Shell (C)** : Développement d’un interpréteur de commandes UNIX en C.
-- **Printf (C)** : Recréation de la fonction printf.
-- **AirBnB Clone (Python, Flask)** : Conception d’un clone simplifié avec API Rest.
-
-### **TryHackMe**
-- Formations et labs pratiques en cybersécurité, CTF, analyse réseau…
-
-### **Restauration (2014-2024)**
-- Management d’équipe, gestion de stocks et coûts
-- Travail en équipe, adaptation, rigueur
-
----
-
-## 🧠 Soft Skills
-
-> Travail en équipe • Persévérance • Adaptabilité • Patience
-
----
-
-## 🌍 Langues
-
-- Français
-- Anglais B1
-
----
-
 ## 📬 Liens utiles
 
 [![Gmail Badge](https://img.shields.io/badge/-simon.paulin.pro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simon.paulin.pro@gmail.com)
