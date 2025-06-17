@@ -18,7 +18,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 ## 🧰 Mes stacks & outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,wireshark,docker" />
+  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,wireshark" />
 </p>
 
 ---
