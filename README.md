@@ -33,8 +33,11 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ## 🏆 Certifications & Plateformes
 
+# IBM
+
+
 # **TryHackMe**
-- **Pre Security Certificate**
+- [![Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-B4GLJZHX3P.pdf)
 - **Soc Level 1** : En cours  
 - [![TryHackMe Badge](https://img.shields.io/badge/-TryHackme-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/simon.paulin.pro)  
 
