@@ -7,8 +7,8 @@
 
 ## 👨‍💻 À propos de moi
 
-Passionné par la détection, la prévention et la réponse aux incidents de sécurité, je me forme actuellement à [Holberton School](https://www.holbertonschool.com/) et via TryHackMe.  
-Après plusieurs années dans la restauration, je me reconvertis dans la cybersécurité et le développement, où je mets à profit mon adaptabilité et mon esprit d’équipe.
+Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/) sur les fondamentaux en informatique et via TryHackMe dans le domaine de la Cyber Sécurité.  
+
 
 📧 Contact : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
 📞 07-83-51-92-03
