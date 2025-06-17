@@ -33,12 +33,13 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ## 🏆 Certifications & Plateformes
 
-### IBM
+## IBM
+### Certificats
 
 
-# **TryHackMe**
-
-- [Pre_Security_Certificat](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
+## **TryHackMe**
+### Certificats
+- [Pre Security](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
 - **Soc Level 1** : En cours  
 
 ---
