@@ -37,7 +37,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 
 # **TryHackMe**
-- [Pre Security Certificate][Pre_Security_Certificat.pdf](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
+[Pre_Security_Certificat.pdf](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
 
 - **Soc Level 1** : En cours  
 - [![TryHackMe Badge](https://img.shields.io/badge/-TryHackme-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/simon.paulin.pro)  
