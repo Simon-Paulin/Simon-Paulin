@@ -7,7 +7,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/) sur les fondamentaux en informatique et via TryHackMe dans le domaine de la Cyber Sécurité.  
+Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/) sur les fondamentaux en informatique et via [TryHackMe](https://tryhackme.com/p/simon.paulin.pro) dans le domaine de la Cyber Sécurité.  
 
 
 📧 Contact : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
