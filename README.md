@@ -1,7 +1,3 @@
-<!-- Bannière personnalisée : Tu peux remplacer par la tienne -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E8C08F&center=true&vCenter=true&width=700&lines=Salut%2C+je+suis+Simon+Paulin;Cybersecurity+Student+%7C+Dev+Web+%26+Sys;En+recherche+de+stage+en+Cybersécurité" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -40,8 +36,8 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 # **TryHackMe**
 - **Pre Security Certificate**
 - **Soc Level 1** : En cours  
-- ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&style=flat)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/ton-lien-linkedin)
+- ![TryHackMe Badge](https://tryhackme.com/p/simon.paulin.pro)  
+
 
 ---
 
