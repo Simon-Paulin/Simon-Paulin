@@ -36,7 +36,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 # **TryHackMe**
 - **Pre Security Certificate**
 - **Soc Level 1** : En cours  
-- ![TryHackMe Badge](https://tryhackme.com/p/simon.paulin.pro)  
+- [TryHackMe](https://tryhackme.com/p/simon.paulin.pro)  
 
 
 ---
