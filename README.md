@@ -37,8 +37,8 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ## 🏆 Certifications & Plateformes
 
-- **TryHackMe** : SALI Professional Certification
-- **Pre Security Certificate** : Acquis
+# **TryHackMe**
+- **Pre Security Certificate**
 - **Soc Level 1** : En cours  
 - ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&style=flat)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/ton-lien-linkedin)
