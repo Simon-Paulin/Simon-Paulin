@@ -7,7 +7,6 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
 
 
 📧 Details : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
-📞 07-83-51-92-03
 
 ---
 
