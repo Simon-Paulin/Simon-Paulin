@@ -55,5 +55,5 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E8C08F&center=true&vCenter=true&width=700&lines=THANK+YOU+!" alt="SEEYOU !" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=E8C08F&center=true&vCenter=true&width=700&lines=THANK+YOU+!" alt="SEEYOU !" />
 </p>
