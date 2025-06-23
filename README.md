@@ -15,7 +15,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,discord,kali,powershell,raspberrypi,ubuntu,vim,windows" />
-  <img src="file:///C:/Users/pauli/Desktop/png-transparent-wireshark-computer-software-data-apache-subversion-wireshark-blue-computer-network-trademark.png" alt="Wireshark" height="48" style="margin-left:8px; background-color:#1e1e1e; border-radius:12px; padding:6px;" />
+  <img src="https://www.pngwing.com/en/free-png-tktcq" alt="Wireshark" height="48" style="margin-left:8px; background-color:#1e1e1e; border-radius:12px; padding:6px;" />
 </p>
 
 
