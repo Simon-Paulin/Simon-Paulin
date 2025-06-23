@@ -1,24 +1,24 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About me
 
-Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/) sur les fondamentaux en informatique et via [TryHackMe](https://tryhackme.com) dans le domaine de la Cyber Sécurité.  
+Actually at [Holberton School](https://www.holbertonschool.com/) focus on web development and on [TryHackMe](https://tryhackme.com) to train myself on cybersecurity.  
 
 
-📧 Contact : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
+📧 Details : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
 📞 07-83-51-92-03
 
 ---
 
-## 🧰 Mes stacks & outils
+## 🧰 My Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,discord,kali,powershell,raspberrypi,ubuntu,vim,windows" />
 </p>
 
 
-## 🚀 Statistiques GitHub
+## 🚀 Stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Simon-Paulin&show_icons=true&theme=github_dark" />
@@ -30,7 +30,7 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ---
 
-## 🏆 Certifications & Plateformes
+## 🏆 Certificats and Platform
 
 ## IBM
 - [Certificat-agile](https://github.com/user-attachments/files/20775891/certificate-agile.pdf)
@@ -41,11 +41,11 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ## **TryHackMe**
 - [Certificat PreSecurity](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
-- **Soc Level 1** : En cours  
+- **Soc Level 1** : In progress  
 
 ---
 
-## 📬 Liens utiles
+## 📬 Links
 
 - [![TryHackMe Badge](https://img.shields.io/badge/-TryHackme-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/simon.paulin.pro)  
 - [![Gmail Badge](https://img.shields.io/badge/-simon.paulin.pro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simon.paulin.pro@gmail.com)
