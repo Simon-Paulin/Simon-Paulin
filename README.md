@@ -13,8 +13,11 @@ Je me forme actuellement à [Holberton School](https://www.holbertonschool.com/)
 
 ## 🧰 Mes stacks & outils
 
+## 🧰 Mes stacks & outils
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,wireshark,discord,kali,powershell,raspberrypi,ubuntu,v,vim,windows" />
+  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,discord,kali,powershell,raspberrypi,ubuntu,vim,windows" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Wireshark_icon.svg" alt="Wireshark" height="48" style="margin-left:8px;" />
 </p>
 
 ---
