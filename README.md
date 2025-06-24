@@ -46,7 +46,7 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
 
 ## 📬 Links
 
-- [![TryHackMe Badge](https://img.shields.io/badge/-TryHackme-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/simon.paulin.pro)  
+- [![TryHackMe Badge](https://img.shields.io/badge/-TryHackme-c14438?style=flat&logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/ClassicCharizard)  
 - [![Gmail Badge](https://img.shields.io/badge/-simon.paulin.pro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simon.paulin.pro@gmail.com)
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-paulin-346104366/)
 - [![GitHub Badge](https://img.shields.io/badge/-Simon--Paulin-181717?style=flat&logo=github&logoColor=white)](https://github.com/Simon-Paulin)
