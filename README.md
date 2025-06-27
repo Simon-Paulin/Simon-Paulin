@@ -13,7 +13,7 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
 ## 🧰 My Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,discord,kali,powershell,raspberrypi,ubuntu,vim,windows" />
+  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,windows" />
 </p>
 
 
