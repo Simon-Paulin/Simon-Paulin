@@ -16,7 +16,7 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
   <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,discord,kali,powershell,raspberrypi,ubuntu,vim,windows" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Simon-Paulin&color=blue)
+
 
 ---
 
@@ -43,6 +43,7 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
 - [![GitHub Badge](https://img.shields.io/badge/-Simon--Paulin-181717?style=flat&logo=github&logoColor=white)](https://github.com/Simon-Paulin)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Simon-Paulin&color=blue)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=E7C07F&center=true&vCenter=true&width=700&lines=THANK+YOU+!" alt="SEEYOU !" />
