@@ -16,15 +16,6 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
   <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,html,css,javascript,flask,vscode,discord,kali,powershell,raspberrypi,ubuntu,vim,windows" />
 </p>
 
-
-## 🚀 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simon-Paulin&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Simon-Paulin&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Paulin&layout=compact&theme=github_dark"/>
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Simon-Paulin&color=blue)
 
 ---
