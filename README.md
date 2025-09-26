@@ -10,7 +10,7 @@ I'm building my skills in both development and offensive security because I beli
 -  RNCP5 Web/Web Mobile Certification (Holberton School)
   - Mastering JavaScript, Python, Docker, and secure coding
   - Goal: Understand application architecture to better identify vulnerabilities
-- eJPT Certification (eLearnSecurity Junior Penetration Tester)
+- PT1 Certification (Junior Penetration Tester)
   - Practical training in network/web pentesting and exploitation
   - Goal: Professional entry into offensive security
 - Ongoing: Maintaining a public portfolio of security research and pentesting writeups
