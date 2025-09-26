@@ -31,7 +31,7 @@ I'm building my skills in both development and offensive security because I beli
 - **Frontend**: JavaScript, HTML/CSS
 - **Backend**: PHP, Node.js
 - **Databases**: MySQL
-- **DevOps**: Docker, GitHub Actions
+- **DevOps**: Docker, GitHub
 
 ### Offensive Security Stack
 <p align="center">
