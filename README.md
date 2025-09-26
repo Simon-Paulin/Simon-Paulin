@@ -3,7 +3,17 @@
 
 ## 👨‍💻 About me
 
-Actually at [Holberton School](https://www.holbertonschool.com/) focus on web development and on [TryHackMe](https://tryhackme.com) to train myself on cybersecurity.  
+Actually at [Holberton School](https://www.holbertonschool.com/) focus on web development for my RNCP5 and on [TryHackMe](https://tryhackme.com) to preparing for my PT1 Certification.
+I'm building my skills in both development and offensive security because I believe the best pentesters understand how systems are built - not just how to break them.
+
+## 🎯 My Journey
+-  RNCP5 Web/Web Mobile Certification (Holberton School)
+  - Mastering JavaScript, Python, Docker, and secure coding
+  - Goal: Understand application architecture to better identify vulnerabilities
+- eJPT Certification (eLearnSecurity Junior Penetration Tester)
+  - Practical training in network/web pentesting and exploitation
+  - Goal: Professional entry into offensive security
+- Ongoing: Maintaining a public portfolio of security research and pentesting writeups
 
 
 📧 Details : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
