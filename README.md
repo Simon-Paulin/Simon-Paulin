@@ -33,9 +33,17 @@ Key Technologies:
     DevOps: Docker, Bash scripting
     OS: Linux (Ubuntu), Windows
 
+### Offensive Security Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git,github,docker,vscode" /> <br> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=PortSwigger&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-149ECA?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/SQLMap-DAA520?style=for-the-badge&logo=sqlmap&logoColor=black" /> </p>
 
+Key Tools & Skills:
 
-
+    OS: Kali Linux
+    Web App Testing: Burp Suite, OWASP ZAP, SQLmap
+    Network Scanning: Nmap, Wireshark
+    Exploitation: Metasploit
+    Scripting: Python (for custom tools), Bash (automation)
+    Methodologies: OWASP Top 10
 ---
 
 ## 🏆 Certificats and Platform
