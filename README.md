@@ -60,7 +60,12 @@ I'm building my skills in both development and offensive security because I beli
 ### 🟣 TryHackMe
 [![PreSecurity](https://img.shields.io/badge/-Pre_Security-5A1F92?style=flat-square)](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
 [![Cyber101](https://img.shields.io/badge/-Cyber_Security_101-5A1F92?style=flat-square)](https://github.com/Simon-Paulin/CyberSecurity_Certificate/blob/main/images/THM-cyber_101.pdf)
-[![PT1](https://img.shields.io/badge/PT1-4C1D95?style=for-the-badge&logoColor=white)](https://tryhackme.com/certification/junior-penetration-tester)
+<span>
+  <img src="https://img.shields.io/badge/TryHackMe-6E2DD6?style=for-the-badge&logo=tryhackme&logoColor=white&label=&labelColor=6E2DD6" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/Pre_Security-6E2DD6?style=for-the-badge" alt="Pre Security"/>
+  <img src="https://img.shields.io/badge/Cyber_Security_101-6E2DD6?style=for-the-badge" alt="Cyber Security 101"/>
+  <img src="https://img.shields.io/badge/PT1-4C1D95?style=for-the-badge" alt="PT1"/>
+</span>
 
 ---
 
