@@ -43,7 +43,6 @@ Key Tools & Skills:
     Network Scanning: Nmap, Wireshark
     Exploitation: Metasploit
     Scripting: Python (for custom tools), Bash (automation)
-    Methodologies: OWASP Top 10
 ---
 
 ## 🏆 Certificats and Platform
