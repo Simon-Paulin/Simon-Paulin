@@ -39,7 +39,7 @@ I'm building my skills in both development and offensive security because I beli
 </p>
 
 **Key Tools & Skills:**
-- **OS:** Kali Linux, Own Lab
+- **OS:** Kali Linux, Own Docker Lab
 - **Web App Testing:** Burp Suite, OWASP ZAP, SQLmap
 - **Network Scanning:** Nmap, Wireshark
 - **Exploitation:** Metasploit
