@@ -16,16 +16,22 @@ I'm building my skills in both development and offensive security because I beli
   - Goal: Professional entry into offensive security
 ### Ongoing: Maintaining a public portfolio of security research and pentesting writeups
 ---
- 
-📧 Details : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
 
 ---
 
 ## 🧰 My Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,css,windows,kali,html,docker,javascript" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,php,python,html,css,git,github,bash,linux,windows,docker,mysql" /> </p>
+
+Key Technologies:
+
+    Frontend: JavaScript, HTML/CSS
+    Backend: PHP, JavaScript
+    Databases: MySQL
+    Version Control: Git/GitHub
+    DevOps: Docker, Bash scripting
+    OS: Linux (Ubuntu), Windows
+
 
 
 
