@@ -32,7 +32,7 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
 ## **TryHackMe**
 - [Certificat PreSecurity](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
 - [Cyber Security 101](https://github.com/user-attachments/files/20775728/THM-cyber_101.pdf)
-- [PT1](https://tryhackme.com/certification/junior-penetration-tester) en cours
+- [PT1](https://tryhackme.com/certification/junior-penetration-tester) in progress
 ---
 
 ## 📬 Links
