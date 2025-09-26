@@ -16,7 +16,7 @@ I'm building my skills in both development and offensive security because I beli
 - **Goal**: Professional entry into offensive security
 
 ### Ongoing
-Maintaining a public portfolio of security research and pentesting writeups [here](https://github.com/Simon-Paulin/portfolio_pentest)
+- Maintaining a public portfolio of security research and pentesting writeups [here](https://github.com/Simon-Paulin/portfolio_pentest)
 
 ---
 
