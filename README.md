@@ -20,6 +20,8 @@ I'm building my skills in both development and offensive security because I beli
 ---
 
 ## 🧰 My Tools
+---
+### Development Stack
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,php,python,html,css,git,github,bash,linux,windows,docker,mysql" /> </p>
 
