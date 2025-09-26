@@ -15,7 +15,7 @@ I'm building my skills in both development and offensive security because I beli
 ### PT1 Certification (Junior Penetration Tester)
   - Practical training in network/web pentesting and exploitation
   - Goal: Professional entry into offensive security
-### Ongoing: Maintaining a public portfolio of security research and pentesting writeups
+### Ongoing: Maintaining a public portfolio of security research and pentesting writeups [here](https://github.com/Simon-Paulin/portfolio_pentest)
 ---
 
 ## 🧰 My Tools
