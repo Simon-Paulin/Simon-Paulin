@@ -15,8 +15,8 @@ I'm building my skills in both development and offensive security because I beli
   - Practical training in network/web pentesting and exploitation
   - Goal: Professional entry into offensive security
 ### Ongoing: Maintaining a public portfolio of security research and pentesting writeups
-
-
+---
+ 
 📧 Details : [simon.paulin.pro@gmail.com](mailto:simon.paulin.pro@gmail.com)  
 
 ---
