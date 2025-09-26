@@ -79,9 +79,3 @@ I'm building my skills in both development and offensive security because I beli
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Simon-Paulin&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E7C07F&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+hacking!+💻" alt="Typing SVG"/>
-</p>
