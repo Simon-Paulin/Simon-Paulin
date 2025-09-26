@@ -5,6 +5,7 @@
 
 Actually at [Holberton School](https://www.holbertonschool.com/) focus on web development for my RNCP5 and on [TryHackMe](https://tryhackme.com) to preparing for my PT1 Certification.
 I'm building my skills in both development and offensive security because I believe the best pentesters understand how systems are built - not just how to break them.
+---
 
 ## 🎯 My Journey
 
@@ -17,10 +18,8 @@ I'm building my skills in both development and offensive security because I beli
 ### Ongoing: Maintaining a public portfolio of security research and pentesting writeups
 ---
 
----
-
 ## 🧰 My Tools
----
+
 ### Development Stack
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,php,python,html,css,git,github,bash,linux,windows,docker,mysql" /> </p>
