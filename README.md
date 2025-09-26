@@ -43,7 +43,7 @@ I'm building my skills in both development and offensive security because I beli
 - **Web App Testing:** Burp Suite, OWASP ZAP, SQLmap
 - **Network Scanning:** Nmap, Wireshark
 - **Exploitation:** Metasploit
-- **Scripting:** Python (for custom tools), Bash (automation)
+- **Scripting:** Python (for custom tools and automation)
 ---
 
 ## 🏆 Certificates
