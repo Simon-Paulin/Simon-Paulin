@@ -36,10 +36,6 @@ I'm building my skills in both development and offensive security because I beli
 ### Offensive Security Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git,github" />
-  <br>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=PortSwigger&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-149ECA?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 </p>
 
 **Key Tools & Skills:**
