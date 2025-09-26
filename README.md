@@ -17,6 +17,7 @@ I'm building my skills in both development and offensive security because I beli
 
 ### Ongoing
 Maintaining a public portfolio of security research and pentesting writeups [here](https://github.com/Simon-Paulin/portfolio_pentest)
+
 ---
 
 ## 🧰 My Tools
