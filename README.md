@@ -31,8 +31,7 @@ Actually at [Holberton School](https://www.holbertonschool.com/) focus on web de
 
 ## **TryHackMe**
 - [Certificat PreSecurity](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
-- **Cyber Security 101** : In progress  
-
+- [Cyber Security 101](https://github.com/user-attachments/files/20775728/THM-cyber_101.pdf)
 ---
 
 ## 📬 Links
