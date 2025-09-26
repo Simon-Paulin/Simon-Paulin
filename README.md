@@ -41,6 +41,12 @@ Maintaining a public portfolio of security research and pentesting writeups [her
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 </p>
 
+**Key Tools & Skills:**
+- **OS:** Kali Linux
+- **Web App Testing:** Burp Suite, OWASP ZAP, SQLmap
+- **Network Scanning:** Nmap, Wireshark
+- **Exploitation:** Metasploit
+- **Scripting:** Python (for custom tools), Bash (automation)
 ---
 
 ## 🏆 Certificates
