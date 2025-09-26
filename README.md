@@ -1,7 +1,6 @@
----
 ## 👨‍💻 About me
 
-Actually at <a href="https://www.holbertonschool.com/" style="color: #4dabf7;">Holberton School</a> focus on web development for my RNCP5 and on <a href="https://tryhackme.com" style="color: #5ff987;">TryHackMe</a> to preparing for my PT1 Certification.
+Actually at [Holberton School](https://www.holbertonschool.com) focus on web development for my RNCP5 and on [TryHackMe](https://tryhackme.com) to prepare for my PT1 Certification.
 I'm building my skills in both development and offensive security because I believe the best pentesters understand how systems are built - not just how to break them.
 
 ---
@@ -9,84 +8,75 @@ I'm building my skills in both development and offensive security because I beli
 ## 🎯 My Journey
 
 ### RNCP5 Web/Web Mobile Certification (Holberton School)
-   - Mastering JavaScript, Python, Docker, and secure coding
-   - Goal: Understand application architecture to better identify vulnerabilities
+- Mastering JavaScript, Python, Docker, and secure coding
+- **Goal**: Understand application architecture to better identify vulnerabilities
 
 ### PT1 Certification (Junior Penetration Tester)
-  - Practical training in network/web pentesting and exploitation
-  - Goal: Professional entry into offensive security
+- Practical training in network/web pentesting and exploitation
+- **Goal**: Professional entry into offensive security
 
-### Ongoing: Maintaining a public portfolio of security research and pentesting writeups <a href="https://github.com/Simon-Paulin/portfolio_pentest" style="color: #ff9e64;">here</a>
+### Ongoing
+Maintaining a public portfolio of security research and pentesting writeups [here →](#) *(remplace # par ton lien réel)*
 
 ---
 
 ## 🧰 My Tools
 
 ### Development Stack
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,php,python,html,css,git,github,bash,linux,windows,docker,mysql" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,python,html,css,git,github,bash,linux,windows,docker,mysql" />
+</p>
 
 **Key Technologies:**
-- **Frontend:** JavaScript, HTML/CSS
-- **Backend:** PHP, JavaScript
-- **Databases:** MySQL
-- **Version Control:** Git/GitHub
-- **DevOps:** Docker, Bash scripting
-- **OS:** Linux (Ubuntu), Windows
+- **Frontend**: JavaScript, HTML/CSS
+- **Backend**: PHP, Node.js
+- **Databases**: MySQL
+- **DevOps**: Docker, GitHub Actions
 
 ### Offensive Security Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git,github,docker,vscode" /> <br>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=PortSwigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-149ECA?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-DAA520?style=for-the-badge&logo=sqlmap&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git,github" />
+  <br>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=PortSwigger&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Metasploit-149ECA?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 </p>
 
-**Key Tools & Skills:**
-- **OS:** Kali Linux
-- **Web App Testing:** Burp Suite, OWASP ZAP, SQLmap
-- **Network Scanning:** Nmap, Wireshark
-- **Exploitation:** Metasploit
-- **Scripting:** Python (for custom tools), Bash (automation)
-
 ---
 
-## 🏆 Certificates and Platforms
+## 🏆 Certificates
 
-### 🔵 IBM
-- [📄 Certificat Agile](https://github.com/user-attachments/files/20775891/certificate-agile.pdf)
-- [📄 Certificat OSS](https://github.com/user-attachments/files/20775905/certificate-oss.pdf)
-- [📄 Certificat CyberSecurity Fundamentals](https://github.com/Simon-Paulin/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/IBM_certification_cyber_fundamutal.pdf)
+### 🔵 IBM Certifications
+[![Agile](https://img.shields.io/badge/-Certificat_Agile-0062FF?style=flat-square)](https://github.com/user-attachments/files/20775891/certificate-agile.pdf)
+[![OSS](https://img.shields.io/badge/-Certificat_OSS-0062FF?style=flat-square)](https://github.com/user-attachments/files/20775905/certificate-oss.pdf)
+[![CyberSecurity](https://img.shields.io/badge/-CyberSecurity_Fundamentals-0062FF?style=flat-square)](https://github.com/Simon-Paulin/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-3/IBM_certification_cyber_fundamutal.pdf)
 
 ### 🟣 TryHackMe
-- [📄 Certificat Pre-Security](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
-- [📄 Cyber Security 101](https://github.com/Simon-Paulin/CyberSecurity_Certificate/blob/main/images/THM-cyber_101.pdf)
-- [🎯 PT1 Certification](https://tryhackme.com/certification/junior-penetration-tester) (In progress)
+[![PreSecurity](https://img.shields.io/badge/-Pre_Security-5A1F92?style=flat-square)](https://github.com/user-attachments/files/20775728/Pre_Security_Certificat.pdf)
+[![Cyber101](https://img.shields.io/badge/-Cyber_Security_101-5A1F92?style=flat-square)](https://github.com/Simon-Paulin/CyberSecurity_Certificate/blob/main/images/THM-cyber_101.pdf)
+[**PT1 Certification** (In Progress)](https://tryhackme.com/certification/junior-penetration-tester)
 
 ---
 
-## 📬 Links
+## 📬 Contact
 
 <p align="center">
   <a href="https://tryhackme.com/p/ClassicCharizard">
-    <img src="https://img.shields.io/badge/-TryHackme-c14438?style=flat&logo=Tryhackme&logoColor=white" alt="TryHackMe">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
   <a href="mailto:simon.paulin.pro@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/simon-paulin-346104366/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Simon-Paulin">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Simon-Paulin&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Simon-Paulin&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=E7C07F&center=true&vCenter=true&width=700&lines=THANK+YOU+FOR+VISITING!+👋" alt="Thank you">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E7C07F&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+hacking!+💻" alt="Typing SVG"/>
 </p>
