@@ -69,11 +69,11 @@ Passionné par la sécurité offensive, je consolide actuellement mes compétenc
 
 ### 💻 Development & Scripting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,html,css,js,php,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,mysql,git,github,vscode" />
 </p>
 
-**Languages**: Python, Bash, PowerShell, JavaScript, HTML/CSS, SQL  
-**Tools**: Git/GitHub, VScode, Django, Symfony, Node.js
+**Languages**: Python, Bash, HTML/CSS, SQL  
+**Tools**: Git/GitHub, VScode, Django.
 
 ### 🐧 Systems & Infrastructure
 <p align="center">
@@ -91,19 +91,6 @@ Passionné par la sécurité offensive, je consolide actuellement mes compétenc
 </p>
 
 **Operating Systems**: Kali Linux (custom Docker modules)  
-**Web Application Testing**: Burp Suite, OWASP ZAP, SQLmap, Nikto  
-**Network Analysis**: Nmap, Wireshark, Netcat, tcpdump  
-**Exploitation**: Metasploit, Exploit-DB, John the Ripper, Hashcat  
-**Enumeration**: Gobuster, dirb, enum4linux, SMBclient  
-**Privilege Escalation**: LinPEAS, WinPEAS  
-**Scripting**: Python (custom tools), Bash automation  
-**Platforms**: TryHackMe (Rank Hacker Top 7%), HackTheBox
-
-### 🛠️ Additional Tools
-**Message Queuing**: RabbitMQ  
-**Web Scraping**: Selenium, BeautifulSoup  
-**Monitoring**: System hardening, security audits  
-**Documentation**: Technical writeups, procedure creation
 
 ---
 
