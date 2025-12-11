@@ -81,7 +81,7 @@ Passionné par la sécurité offensive, je consolide actuellement mes compétenc
 </p>
 
 **Operating Systems**: Kali Linux, Ubuntu, Windows Server 2022, Windows 10/11  
-**Infrastructure**: VirtualBox, Docker, Active Directory, LDAP, Samba  
+**Infrastructure**: VirtualBox, Docker, Active Directory
 **Networking**: TCP/IP, DNS, DHCP, VLAN, NAT/PAT, Subnetting, Firewall (iptables, Windows FW)  
 **Automation**: PowerShell GPO, Bash scripting, provisioning
 
